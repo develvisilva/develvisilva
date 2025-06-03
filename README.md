@@ -14,7 +14,7 @@
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Delphi/Pascal" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Delphi_10.4_Product_Icon.png">
+  <img align="center" alt="Delphi/Pascal" height="30" width="40" src="https://github.com/elvisilvaa/elvisilvaa/raw/main/delphi-icon.png">
 </div>
 
 <br/><br/>
