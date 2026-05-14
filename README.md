@@ -1,10 +1,11 @@
 <h1 align="center">Olá! Eu sou o Elvis Silva.</h1>
 
 <div align="center">
-  <a href="https://github.com/develvisilva"> <!-- Link corrigido aqui -->
-    <img height="188em" align="center" src="https://github-readme-stats.vercel.app/api?username=develvisilva&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <!-- Altere o domínio 'SEU-APP' pelo da sua instância própria -->
+  <a href="https://github.com/develvisilva">
+    <img height="188em" align="center" src="https://SEU-APP.vercel.app/api?username=develvisilva&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     <br/>
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develvisilva&layout=compact&langs_count=10&theme=merko&hide=procfile"/>
+    <img height="180em" align="center" src="https://SEU-APP.vercel.app/api/top-langs/?username=develvisilva&layout=compact&langs_count=10&theme=merko&hide=procfile"/>
   </a>
 </div>
 
@@ -22,5 +23,9 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <br/>
-  ![snake gif](https://github.com/develvisilva/develvisilva/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/develvisilva/develvisilva/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/develvisilva/develvisilva/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/develvisilva/develvisilva/output/github-snake.svg" />
+  </picture>
 </div>
