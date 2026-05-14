@@ -1,11 +1,10 @@
 <h1 align="center">Olá! Eu sou o Elvis Silva.</h1>
 
 <div align="center">
-  <!-- Altere o domínio 'SEU-APP' pelo da sua instância própria -->
   <a href="https://github.com/develvisilva">
-    <img height="188em" align="center" src="https://SEU-APP.vercel.app/api?username=develvisilva&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="188em" align="center" src="https://gh-stats.com/api?username=develvisilva&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     <br/>
-    <img height="180em" align="center" src="https://SEU-APP.vercel.app/api/top-langs/?username=develvisilva&layout=compact&langs_count=10&theme=merko&hide=procfile"/>
+    <img height="180em" align="center" src="https://gh-stats.com/api/top-langs/?username=develvisilva&layout=compact&langs_count=10&theme=merko&hide=procfile"/>
   </a>
 </div>
 
